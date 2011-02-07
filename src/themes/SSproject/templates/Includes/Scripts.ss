@@ -1,6 +1,6 @@
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
 <script>!window.jQuery && document.write('<script src="themes/SSproject/js/libs/jquery-1.5.min.js"><\/script>')</script>
 <script src="themes/SSproject/js/SSproject.js?v=1"></script>
 
